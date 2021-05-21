@@ -1,0 +1,41 @@
+body{
+    background: darkolivegreen;
+    font: normal 20pt Arial;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+}
+
+header,
+footer{
+    text-align: center;
+    color: white;
+}
+
+footer,
+p{
+    font-style: italic;
+}
+
+input{
+    font-size: 20px;
+    width: 150px;
+}
+
+#resultado{
+    margin-top: 20px;
+    
+}
+
+table, td, tr{
+    border: solid 1px;
+    width: 50%;
+    text-align: center;
+}
+
